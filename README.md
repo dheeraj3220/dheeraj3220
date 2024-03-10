@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
-- 💬 Ask me about **Go/Golang, MERN, System Design, DSA**
+- 💬 Ask me about **Go/Golang, NodeJs, System Design, DSA**
 
 - 📫 How to reach me **Dheeraj322000@gmail.com**
 
